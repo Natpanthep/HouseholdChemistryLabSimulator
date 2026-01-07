@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_water__blue_dye
+  m_EditorClassIdentifier: 
+  id: bluedye+water
+  displayName: Blue Dye + Water
+  ingredientA: {fileID: 11400000, guid: 5eb91e5a41278354d880cb45705706b9, type: 2}
+  ingredientB: {fileID: 11400000, guid: f889f26407e1eba4185ba060e86c5319, type: 2}
+  resultColor: {r: 0.22745098, g: 0.627451, b: 1, a: 1}
+  effect: 0
+  productName: Blue Solution
+  productIcon: {fileID: 21300000, guid: f2d6fd0fd65c02c49896a1557ed3a3b1, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: fbfae29cb98e780479a1fe771983acff, type: 3}
+  sfxVolume: 1
+  funFact: 'Dye in water used to change color
+
+    Blue water.'
+  unlocked: 1
+  discovered: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_liquid_soap__rubbing_alcohol
+  m_EditorClassIdentifier: 
+  id: liquidsoap+rubbingalcohol
+  displayName: Liquid Soap + Rubbing Alcohol
+  ingredientA: {fileID: 11400000, guid: 1299c23d034fa154d8b415c3a8d1808d, type: 2}
+  ingredientB: {fileID: 11400000, guid: da0fc691e256e784f86c3f0b56a2dfcd, type: 2}
+  resultColor: {r: 0.8392157, g: 0.9411765, b: 1, a: 1}
+  effect: 1
+  productName: Soapy Spray
+  productIcon: {fileID: 21300000, guid: 03cb52ddffffd004cb8de66085bcc6ff, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: 88f5b1899bab9be498c327f8b3719b00, type: 3}
+  sfxVolume: 1
+  funFact: 'Soap-alcohol blend
+
+    Basically a DIY cleaning vibe.'
+  unlocked: 1
+  discovered: 0

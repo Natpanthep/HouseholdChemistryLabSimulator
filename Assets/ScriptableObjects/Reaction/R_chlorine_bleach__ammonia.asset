@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_chlorine_bleach__ammonia
+  m_EditorClassIdentifier: 
+  id: ammonia+chlorinebleach
+  displayName: Chlorine Bleach + Ammonia
+  ingredientA: {fileID: 11400000, guid: ce7d2563cd61d29499200ea0e2e305cb, type: 2}
+  ingredientB: {fileID: 11400000, guid: ac993cb6917c05e49a54b3334c69d80e, type: 2}
+  resultColor: {r: 0.8, g: 1, b: 0, a: 1}
+  effect: 2
+  productName: 'Chloramine Gas '
+  productIcon: {fileID: 21300000, guid: 4eb7aa1f00c9c394fb6e9c16bfeb66b2, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: b6423fe6e04d66d4f9faf05eacd2d0b8, type: 3}
+  sfxVolume: 1
+  funFact: "\u2620 Deadly toxic gas \u26A0\r\ntoxic chloramine vapour"
+  unlocked: 1
+  discovered: 0

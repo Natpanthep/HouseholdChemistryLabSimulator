@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_toothpaste__washing_up_liquid
+  m_EditorClassIdentifier: 
+  id: toothpaste+washingupliquid
+  displayName: Toothpaste + Washing up Liquid
+  ingredientA: {fileID: 11400000, guid: 0d29feb1a654e7e428ef647ab4ff0b33, type: 2}
+  ingredientB: {fileID: 11400000, guid: fa127247e686f6a4facac984cfd8e34a, type: 2}
+  resultColor: {r: 0.9137255, g: 0.96862745, b: 0.9529412, a: 1}
+  effect: 1
+  productName: Minty Bubbles
+  productIcon: {fileID: 21300000, guid: 87dd56d88b0e1484c822038cda232ff6, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: 88f5b1899bab9be498c327f8b3719b00, type: 3}
+  sfxVolume: 1
+  funFact: 'Frothy weird gel
+
+    Worst-tasting bubble bath ever.'
+  unlocked: 1
+  discovered: 0

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_chlorine_bleach__hair_shampoo
+  m_EditorClassIdentifier: 
+  id: chlorinebleach+hairshampoo
+  displayName: Chlorine Bleach + Hair Shampoo
+  ingredientA: {fileID: 11400000, guid: ce7d2563cd61d29499200ea0e2e305cb, type: 2}
+  ingredientB: {fileID: 11400000, guid: 59650ee0701a98c4284520f08730f842, type: 2}
+  resultColor: {r: 0.83782196, g: 0.9547169, b: 0.81241, a: 1}
+  effect: 1
+  productName: Bubble Trouble
+  productIcon: {fileID: 21300000, guid: 23d14e144cdd7e849b338af0e174f77f, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: 88f5b1899bab9be498c327f8b3719b00, type: 3}
+  sfxVolume: 1
+  funFact: 'Hair Bleach
+
+    Harsh bubbling mixture.'
+  unlocked: 1
+  discovered: 0

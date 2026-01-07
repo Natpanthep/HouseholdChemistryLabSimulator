@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_baking_soda__rubbing_alcohol
+  m_EditorClassIdentifier: 
+  id: bakingsoda+rubbingalcohol
+  displayName: Baking Soda + Rubbing Alcohol
+  ingredientA: {fileID: 11400000, guid: e36fd477c123fd7429a9cb53979a44ab, type: 2}
+  ingredientB: {fileID: 11400000, guid: da0fc691e256e784f86c3f0b56a2dfcd, type: 2}
+  resultColor: {r: 0.88235295, g: 0.90588236, b: 0.9372549, a: 1}
+  effect: 1
+  productName: Exfoliant
+  productIcon: {fileID: 21300000, guid: cf143a2f3c4a81a488faba2a63bdf9c9, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: 88f5b1899bab9be498c327f8b3719b00, type: 3}
+  sfxVolume: 1
+  funFact: Suspended Soda.
+  unlocked: 1
+  discovered: 0

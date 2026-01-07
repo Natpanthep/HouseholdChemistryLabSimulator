@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_hydrogen_peroxide__baking_soda
+  m_EditorClassIdentifier: 
+  id: bakingsoda+hydrogenperoxide
+  displayName: Hydrogen Peroxide + Baking Soda
+  ingredientA: {fileID: 11400000, guid: 7196e1ca120dae343a2de9908234a6b0, type: 2}
+  ingredientB: {fileID: 11400000, guid: e36fd477c123fd7429a9cb53979a44ab, type: 2}
+  resultColor: {r: 0.98039216, g: 0.972549, b: 0.9647059, a: 1}
+  effect: 1
+  productName: 'Whitening Paste '
+  productIcon: {fileID: 21300000, guid: ee349171a5b8db540adb86cc183c59b2, type: 3}
+  badges:
+  - name: 
+    icon: {fileID: 21300000, guid: 278425f3589ca89479e3414f759e4f13, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 0.5176471}
+  - name: 
+    icon: {fileID: 21300000, guid: c039d1f37db557743b931eb13c7eb6ff, type: 3}
+    color: {r: 0, g: 0, b: 0, a: 0.56078434}
+  sfx: {fileID: 8300000, guid: 88f5b1899bab9be498c327f8b3719b00, type: 3}
+  sfxVolume: 1
+  funFact: "Homemade toothpaste cleaner \nTile grout cleaner"
+  unlocked: 1
+  discovered: 0

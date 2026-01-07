@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_cornstarch__salt
+  m_EditorClassIdentifier: 
+  id: cornstarch+salt
+  displayName: Cornstarch + Salt
+  ingredientA: {fileID: 11400000, guid: 5a3ec09a75112d64ebd20758bf65bfd5, type: 2}
+  ingredientB: {fileID: 11400000, guid: 45cef2dd3ea0ff44a9e934386b4c7aa7, type: 2}
+  resultColor: {r: 1, g: 1, b: 1, a: 1}
+  effect: 0
+  productName: Dust & Crystals
+  productIcon: {fileID: 21300000, guid: 0beb1f76e003f0049aa526c603d45542, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: fbfae29cb98e780479a1fe771983acff, type: 3}
+  sfxVolume: 1
+  funFact: Steak rub.
+  unlocked: 1
+  discovered: 0

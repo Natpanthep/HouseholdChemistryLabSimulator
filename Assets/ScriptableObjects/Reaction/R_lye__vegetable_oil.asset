@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_lye__vegetable_oil
+  m_EditorClassIdentifier: 
+  id: oil+sodiumhydroxide
+  displayName: Lye + Vegetable Oil
+  ingredientA: {fileID: 11400000, guid: 987adfbb364ed964394855a3c53f959b, type: 2}
+  ingredientB: {fileID: 11400000, guid: 0f60b5a2ad701ec43935be9a0f7c9327, type: 2}
+  resultColor: {r: 1, g: 0.99215686, b: 0.8156863, a: 1}
+  effect: 4
+  productName: 'Soap '
+  productIcon: {fileID: 21300000, guid: 8e31c00dacf0ba24abcd98eb93d89d2d, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: 4b634ef928f155044a334a13c0cdd8ef, type: 3}
+  sfxVolume: 1
+  funFact: 'Saponification makes soap!
+
+'
+  unlocked: 1
+  discovered: 0

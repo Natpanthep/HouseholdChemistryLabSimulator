@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_oil__liquid_soap
+  m_EditorClassIdentifier: 
+  id: liquidsoap+oil
+  displayName: Soap + Oil
+  ingredientA: {fileID: 11400000, guid: 0f60b5a2ad701ec43935be9a0f7c9327, type: 2}
+  ingredientB: {fileID: 11400000, guid: 1299c23d034fa154d8b415c3a8d1808d, type: 2}
+  resultColor: {r: 1, g: 0.9647059, b: 0.8, a: 1}
+  effect: 1
+  productName: Greasy Mixture
+  productIcon: {fileID: 21300000, guid: d1f9bc136e129eb438490ec47a18a763, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: 88f5b1899bab9be498c327f8b3719b00, type: 3}
+  sfxVolume: 1
+  funFact: 'Tanning rabbit fur
+
+    Making it slippery and oily.'
+  unlocked: 1
+  discovered: 0

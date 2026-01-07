@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_liquid_soap__salt
+  m_EditorClassIdentifier: 
+  id: liquidsoap+salt
+  displayName: Liquid Soap + Salt
+  ingredientA: {fileID: 11400000, guid: 1299c23d034fa154d8b415c3a8d1808d, type: 2}
+  ingredientB: {fileID: 11400000, guid: 45cef2dd3ea0ff44a9e934386b4c7aa7, type: 2}
+  resultColor: {r: 0.9372549, g: 0.95686275, b: 0.9529412, a: 1}
+  effect: 0
+  productName: Soap-Paste
+  productIcon: {fileID: 21300000, guid: 4b3dd15049b2f0b4dae1859fdd93d683, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: fbfae29cb98e780479a1fe771983acff, type: 3}
+  sfxVolume: 1
+  funFact: "Curds/\u201Csalting out\u201D."
+  unlocked: 1
+  discovered: 0

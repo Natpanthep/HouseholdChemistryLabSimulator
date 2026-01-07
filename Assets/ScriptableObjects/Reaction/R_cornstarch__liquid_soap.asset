@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_cornstarch__liquid_soap
+  m_EditorClassIdentifier: 
+  id: cornstarch+liquidsoap
+  displayName: Cornstarch + Liquid Soap
+  ingredientA: {fileID: 11400000, guid: 5a3ec09a75112d64ebd20758bf65bfd5, type: 2}
+  ingredientB: {fileID: 11400000, guid: 1299c23d034fa154d8b415c3a8d1808d, type: 2}
+  resultColor: {r: 0.81374866, g: 0.9036587, b: 0.93962264, a: 1}
+  effect: 0
+  productName: Window Cleaner
+  productIcon: {fileID: 21300000, guid: 51524e0a724382747bc41fbff074387d, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: fbfae29cb98e780479a1fe771983acff, type: 3}
+  sfxVolume: 1
+  funFact: Soapy starch gel.
+  unlocked: 1
+  discovered: 0

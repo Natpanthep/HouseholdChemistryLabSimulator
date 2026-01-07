@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a085273cacdb3234192cfc71fff0ca29, type: 3}
+  m_Name: R_oil__vinegar
+  m_EditorClassIdentifier: 
+  id: oil+vinegar
+  displayName: Oil + Vinegar
+  ingredientA: {fileID: 11400000, guid: 0f60b5a2ad701ec43935be9a0f7c9327, type: 2}
+  ingredientB: {fileID: 11400000, guid: 3555efc188d73564bad67459b506279d, type: 2}
+  resultColor: {r: 0.9137255, g: 0.76862746, b: 0.36078432, a: 1}
+  effect: 0
+  productName: Salad Dressing
+  productIcon: {fileID: 21300000, guid: 840474f4af681db4f85451420ad4b16f, type: 3}
+  badges: []
+  sfx: {fileID: 8300000, guid: fbfae29cb98e780479a1fe771983acff, type: 3}
+  sfxVolume: 1
+  funFact: 'Classic vinaigrette
+
+    This one you actually eat! '
+  unlocked: 1
+  discovered: 0
